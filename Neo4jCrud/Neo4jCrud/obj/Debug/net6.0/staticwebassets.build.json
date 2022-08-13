@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wc8hKqaf19c8M5O9CgsVnHRk11SIRM9hRcejoA6zpf0=",
+  "Source": "Neo4jCrud",
+  "BasePath": "_content/Neo4jCrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
